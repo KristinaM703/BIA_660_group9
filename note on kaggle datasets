@@ -1,2 +1,0 @@
-reviews defined as positive if rating >= 4 and negative if <= 2
-kept even split between positive and negative since test set will also
